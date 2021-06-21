@@ -1,0 +1,21 @@
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(chartreuse 20%, brown 80%);
+    color: linear-gradient(grey 30%, darkslategrey 70%);
+    text-align: center;
+}
